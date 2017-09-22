@@ -40,7 +40,7 @@
  "lodash.reduce": "^4.4.0",
  "lodash.reject": "^4.4.0",
  "lodash.some": "^4.6.0",
-    "lodash.assignIn" : "^4.2.0"
+    "lodash.assignin" : "^4.2.0"
   },
   "devDependencies": {
     "benchmark": "^2.1.0",
