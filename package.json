@@ -29,7 +29,7 @@
     "dom-serializer": "~0.1.0",
     "entities": "~1.1.1",
     "htmlparser2": "^3.9.1",
-   "lodash.assignin": "^4.0.9",
+//   "lodash.assignin": "^4.0.9",
  "lodash.bind": "^4.1.4",
  "lodash.defaults": "^4.0.1",
  "lodash.filter": "^4.4.0",
@@ -40,8 +40,8 @@
  "lodash.pick": "^4.2.1",
  "lodash.reduce": "^4.4.0",
  "lodash.reject": "^4.4.0",
- "lodash.some": "^4.4.0",
-    "lodash/assignIn" : "^4.4.0"
+ "lodash.some": "^4.6.0",
+    "lodash.assignIn" : "^4.2.0"
   },
   "devDependencies": {
     "benchmark": "^2.1.0",
